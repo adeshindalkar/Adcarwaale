@@ -1,0 +1,1 @@
+﻿DELETE FROM customer WHERE drivername = 'John Doe';
